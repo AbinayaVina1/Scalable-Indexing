@@ -20,5 +20,5 @@ This project demonstrates a scalable approach to indexing and searching text doc
 
 1. Clone the repository:
    ```bash
-   git clone [repository_url](https://github.com/AbinayaVina1/Scalable-Indexing.git)
-   cd [<repository_directory>](https://github.com/AbinayaVina1/Scalable-Indexing.git)
+   git clone (https://github.com/AbinayaVina1/Scalable-Indexing.git)
+   cd (https://github.com/AbinayaVina1/Scalable-Indexing.git)
